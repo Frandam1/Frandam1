@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**Frandam1/Frandam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mis Habilidades de Programación
 
-Here are some ideas to get you started:
+### Lenguajes y Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+    <p>HTML5</p>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+    <p>CSS3</p>
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    <p>JavaScript</p>
+  </div>
+  <!-- Añade más habilidades aquí -->
+</div>
+
+## Sobre mí
+
+Soy un desarrollador apasionado por la creación de aplicaciones web y el aprendizaje de nuevas tecnologías. Me encanta trabajar en proyectos desafiantes y colaborar con otros desarrolladores.
+
+## Conecta conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/tu-nombre/)
+- [Twitter](https://twitter.com/tu-usuario)
